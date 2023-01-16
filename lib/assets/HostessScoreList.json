@@ -1,0 +1,16 @@
+[
+  {
+    "hostessId": "1",
+    "firstName": "Milo",
+    "lastName": "Lew",
+    "score": 10,
+    "podiumPlace": 1
+  },
+  {
+    "hostessId": "2",
+    "firstName": "JJ",
+    "lastName": "Lew",
+    "score": 8,
+    "podiumPlace": 2
+  }
+]
